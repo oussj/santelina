@@ -2,7 +2,7 @@
    
   </script>
   
-  <h1>Register</h1>
+  <h1>Registerrrrrrrrrrrrrrrrrrrrr</h1>
   
   <form action="?/register" method="POST">
     <div>
